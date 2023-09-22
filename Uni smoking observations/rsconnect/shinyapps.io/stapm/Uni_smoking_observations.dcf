@@ -1,0 +1,13 @@
+name: Uni_smoking_observations
+title: Uni_smoking_observations
+username:
+account: stapm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9954436
+bundleId: 7715007
+url: https://stapm.shinyapps.io/Uni_smoking_observations/
+when: 1695371123.02368
+lastSyncTime: 1695371123.02373
+asMultiple: FALSE
+asStatic: FALSE
